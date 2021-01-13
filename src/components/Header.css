@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	margin-top: 0;
+}
+
+.header {
+	display: flex;
+	justify-content: center;
+}
+
+.sw-logo {
+	margin-top: 30px;
+	width: 25%;
+	height: 25%;
+}
