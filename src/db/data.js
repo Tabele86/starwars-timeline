@@ -1,7 +1,6 @@
 const youtube = 'https://www.youtube.com/embed/';
 //autoplay= 0 turns off autoplay and rel=0 used to turn off related videos at end now only limits to similar videos from same channel
 const autoplay = '?autoplay=0&rel=0';
-const url = `https://www.starwars.com/the-high-republic`;
 
 const data = [
 	{

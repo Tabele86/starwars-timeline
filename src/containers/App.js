@@ -1,7 +1,5 @@
 import Header from '../components/Header';
 import './App.css';
-import { Tooltip } from '@material-ui/core';
-
 import Ages from '../components/Ages';
 import Info from '../components/Info';
 import Timeline from '../components/Timeline';
