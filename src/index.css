@@ -8,6 +8,11 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+@font-face {
+	font-family: 'Star Jedi';
+	src: url("//db.onlinewebfonts.com/t/af7c07faaff0d16720c25db7990579e2.woff"), format('woff');
+}
+
 * {
 	margin: 0;
 }

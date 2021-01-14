@@ -7,10 +7,28 @@ body {
 .header {
 	display: flex;
 	justify-content: center;
+	flex-direction: column;
+	align-items: center;
 }
 
 .sw-logo {
-	margin-top: 30px;
-	width: 25%;
-	height: 25%;
+	margin-top: 2px;
+	width: 20%;
+	height: 20%;
+}
+.sw-timeline {
+	margin-top: 0px;
+	width: 10%;
+	height: 10%;
+}
+
+@font-face {
+	font-family: 'Star Jedi';
+	src: url("//db.onlinewebfonts.com/t/af7c07faaff0d16720c25db7990579e2.woff"), format('woff');
+}
+
+h1 {
+	font-family: 'Starjedi';
+	font-weight: 200;
+	color: yellow;
 }
