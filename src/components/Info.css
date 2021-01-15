@@ -5,6 +5,17 @@
 	align-items: center;
 	color: yellow;
 }
+@media screen and(max-width: 405px) {
+	.info {
+		display: flexbox;
+		flex-direction: column;
+		justify-content: space-between;
+		margin-left: 5px;
+		margin-right: 5px;
+		color: yellow;
+	}
+}
+
 h2 {
 	cursor: pointer;
 }

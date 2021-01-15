@@ -27,8 +27,7 @@ const data = [
 			type: 'VIDEO',
 			name: ''
 		},
-
-		cardDetailedText: ``
+		cardSubtitle: ``
 	},
 	{
 		title: '22 BBY',
@@ -70,18 +69,6 @@ const data = [
 		cardSubtitle: ``
 	},
 	{
-		title: '20 BBY',
-		cardTitle: 'Darth Maul(Comic)',
-		media: {
-			source: {
-				name: 'Darth Maul',
-				url: `https://static.wikia.nocookie.net/starwars/images/6/62/SW_-_Darth_Maul_logo.png`
-			},
-			type: 'IMAGE'
-		},
-		cardDetailedText: `4-part marvel comic that bridges season 5 and 7 for Maul's arc.`
-	},
-	{
 		title: '19 BBY',
 		cardTitle: 'Episode III: Revenge of the Sith',
 		media: {
@@ -108,7 +95,7 @@ const data = [
 		cardSubtitle: ``
 	},
 	{
-		title: '5-1 BBY (Epilogue after 4 ABY)',
+		title: '5-1 BBY',
 		cardTitle: 'Star Wars Rebels',
 		media: {
 			source: {
@@ -121,7 +108,7 @@ const data = [
 		cardSubtitle: ``
 	},
 	{
-		title: '0 BBY',
+		title: '1* BBY',
 		cardTitle: 'Rogue One: A Star Wars Story',
 		media: {
 			source: {

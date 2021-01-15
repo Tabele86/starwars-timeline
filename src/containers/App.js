@@ -3,7 +3,6 @@ import './App.css';
 import Ages from '../components/Ages';
 import Info from '../components/Info';
 import Timeline from '../components/Timeline';
-import Footer from '../components/Footer';
 
 function App() {
 	return (
@@ -23,10 +22,6 @@ function App() {
 				<Info />
 			</div>
 			<Timeline />
-
-			<div>
-				<Footer />
-			</div>
 		</div>
 	);
 }

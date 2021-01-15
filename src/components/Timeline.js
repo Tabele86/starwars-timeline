@@ -5,7 +5,8 @@ import './Timeline.css';
 
 function Timeline() {
 	return (
-		<div className="timeline" style={{ width: '100%', height: '450px' }}>
+		<div className="timeline">
+			{/* style={{ width: '70%', height: '450px' }} */}
 			<Chrono
 				items={data}
 				mode="HORIZONTAL"

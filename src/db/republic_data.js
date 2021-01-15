@@ -1,7 +1,6 @@
 const youtube = 'https://www.youtube.com/embed/';
 //autoplay= 0 turns off autoplay and rel=0 used to turn off related videos at end now only limits to similar videos from same channel
 const autoplay = '?autoplay=0&rel=0';
-const url = `https://www.starwars.com/the-high-republic`;
 
 const data = [
 	{
@@ -70,6 +69,18 @@ const data = [
 			name: ''
 		},
 		cardSubtitle: `The show follows the actions of various characters from the Star Wars prequel trilogy, notably Jedi and clone troopers, in their war against the battle droid armies of the Confederacy of Independent Systems and the Sith. The series is notable for introducing Revenge of the Sith villain General Grievous.`
+	},
+	{
+		title: '20 BBY',
+		cardTitle: 'Darth Maul(Comic)',
+		media: {
+			source: {
+				name: 'Darth Maul',
+				url: `https://static.wikia.nocookie.net/starwars/images/6/62/SW_-_Darth_Maul_logo.png`
+			},
+			type: 'IMAGE'
+		},
+		cardSubtitle: `20 BBY`
 	},
 	{
 		title: '19 BBY',

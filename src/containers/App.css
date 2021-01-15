@@ -1,6 +1,31 @@
 body {
 	margin: 0;
 	margin-top: 0;
+	width: 100%;
+	height: 100vh;
+}
+@media screen and (max-width: 650px) {
+	.timeline {
+		width: 100vw;
+		height: 20%;
+		margin-left: 0;
+	}
+	.sw-logo {
+		margin-top: 2px;
+		width: 50%;
+		height: 50%;
+	}
+	.sw-timeline {
+		margin-top: 0px;
+		width: 120px;
+		height: 50px;
+	}
+	.ages-buttons {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		display: flex;
+		justify-content: space-between;
+	}
 }
 .background {
 	margin-top: 0;
@@ -16,26 +41,24 @@ body {
 	color: yellow;
 }
 
+.ages-buttons {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: space-between;
+}
+
 .below-header {
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
 	align-items: center;
-}
-
-.timeline {
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
+	margin-bottom: 20px;
+	max-height: 80px;
 }
 
 .swu-img {
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-}
-
-img {
-	width: 15%;
-	height: 15%;
 }

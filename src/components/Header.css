@@ -2,6 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	margin-top: 0;
+	max-height: 100vh;
 }
 
 .header {
@@ -13,13 +14,13 @@ body {
 
 .sw-logo {
 	margin-top: 2px;
-	width: 20%;
-	height: 20%;
+	width: 315px;
+	height: 135px;
 }
 .sw-timeline {
 	margin-top: 0px;
-	width: 10%;
-	height: 10%;
+	width: 120px;
+	height: 40px;
 }
 
 @font-face {
