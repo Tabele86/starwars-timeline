@@ -1,0 +1,17 @@
+.timeline-rep,
+.timeline-reb,
+.timeline-res {
+	width: 80vw;
+	height: 100vh;
+	margin-top: 5px;
+	margin-bottom: 0;
+	margin-left: 10%;
+}
+
+/* @media screen and(max-width: 650px) {
+	.timeline {
+		width: 10vw;
+		height: 20%;
+		margin-left: 0;
+	}
+} */
