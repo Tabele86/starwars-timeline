@@ -1,8 +1,7 @@
-import './Home.css';
-import Timeline from '../components/Timeline';
+import RebellionTL from '../components/RebellionTL';
 
-function App() {
-	return <Timeline />;
+function Rebellion() {
+	return <RebellionTL />;
 }
 
-export default App;
+export default Rebellion;

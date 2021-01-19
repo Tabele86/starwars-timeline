@@ -5,6 +5,8 @@ import Info from '../components/Info';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from './Home';
 import Republic from './Republic';
+import Rebellion from './Rebellion';
+import Resistance from './Resistance';
 
 function App() {
 	return (
@@ -32,8 +34,12 @@ function App() {
 					<Route path="/republic">
 						<Republic />
 					</Route>
-					<Route path="/rebellion">{/* Rebellion */}</Route>
-					<Route path="/resistance">{/* Resistance */}</Route>
+					<Route path="/rebellion">
+						<Rebellion />
+					</Route>
+					<Route path="/resistance">
+						<Resistance />
+					</Route>
 				</Switch>
 			</div>
 		</Router>
