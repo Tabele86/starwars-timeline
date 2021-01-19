@@ -6,7 +6,8 @@ const data = [
 		cardTitle: 'Episode 1: The Phantom Menace (32 BBY)',
 		media: {
 			source: {
-				url: `https://images.squarespace-cdn.com/content/v1/58ff64272e69cf8f337d1927/1578518679515-B7WEXZOGY12ZOFNQW72U/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/Star_Wars_Phantom_Menace_1.jpg?format=750w`
+				url: `/img/ep1_750.jpg`
+				// url: `https://images.squarespace-cdn.com/content/v1/58ff64272e69cf8f337d1927/1578518679515-B7WEXZOGY12ZOFNQW72U/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/Star_Wars_Phantom_Menace_1.jpg?format=750w`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -27,7 +28,8 @@ ${bp}Palpatine becomes the Supreme Chancellor of the Galactic Republic.`
 		cardTitle: 'Episode II: Attack of the Clones (22 BBY)',
 		media: {
 			source: {
-				url: `https://2.bp.blogspot.com/-a9nx3ANMxwo/Vlo7XJNEv_I/AAAAAAAAMT4/WeHRfx9g5So/w1200-h630-p-k-no-nu/Attack%2Bof%2Bthe%2BClones.jpg`
+				url: `/img/ep2.jpg`
+				// url: `https://2.bp.blogspot.com/-a9nx3ANMxwo/Vlo7XJNEv_I/AAAAAAAAMT4/WeHRfx9g5So/w1200-h630-p-k-no-nu/Attack%2Bof%2Bthe%2BClones.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -49,7 +51,8 @@ ${bp}Palpatine becomes the Supreme Chancellor of the Galactic Republic.`
 		cardTitle: 'The Clone Wars (movie) [22 BBY]',
 		media: {
 			source: {
-				url: `https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fdorksideoftheforce.com%2Ffiles%2F2020%2F01%2FCLONEWARS_1sheet_15434_L-900x0-850x560.jpg`
+				url: `/img/clone_wars.jpg`
+				// url: `https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fdorksideoftheforce.com%2Ffiles%2F2020%2F01%2FCLONEWARS_1sheet_15434_L-900x0-850x560.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -66,7 +69,8 @@ ${bp}Palpatine becomes the Supreme Chancellor of the Galactic Republic.`
 		cardTitle: 'The Clone Wars (TV series) [22-19 BBY]',
 		media: {
 			source: {
-				url: `https://magicguidebooks.com/wp-content/uploads/2020/04/star-wars-the-clone-wars.jpg`
+				url: `/img/clone_wars_tv.jpg`
+				// url: `https://magicguidebooks.com/wp-content/uploads/2020/04/star-wars-the-clone-wars.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -101,7 +105,8 @@ ${bp}Palpatine becomes the Supreme Chancellor of the Galactic Republic.`
 		cardTitle: 'Episode III: Revenge of the Sith (19 BBY)',
 		media: {
 			source: {
-				url: `https://images.squarespace-cdn.com/content/5956339e725e2555c63a1e67/1508559236312-DQ8NMON62PR16A6PE95F/revenge_sith_800.jpg?content-type=image%2Fjpeg`
+				url: `/img/ep3_800.jpg`
+				// url: `https://images.squarespace-cdn.com/content/5956339e725e2555c63a1e67/1508559236312-DQ8NMON62PR16A6PE95F/revenge_sith_800.jpg?content-type=image%2Fjpeg`
 			},
 			type: 'IMAGE',
 			name: ''

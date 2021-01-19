@@ -11,7 +11,7 @@ function Header() {
 				src="https://logos-download.com/wp-content/uploads/2016/09/Star_Wars_logo-1.png"
 				alt="Star Wars logo"
 			/>
-			<Tooltip title="Movies + TV Timeline">
+			<Tooltip title="Movies + TV Chronological Timeline">
 				<Link to="/">
 					<img
 						className="sw-timeline"

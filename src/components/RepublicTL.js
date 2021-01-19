@@ -7,14 +7,18 @@ import json2mq from 'json2mq';
 
 function RepublicTL() {
 	// const matches = useMediaQuery('(min-width: 480px)');
+	// const matches2 = useMediaQuery(
+	// 	json2mq({
+	// 		minWidth: 500
+	// 	})
+	// );
 	const matches = useMediaQuery(
 		json2mq({
-			minWidth: 900
+			minWidth: 1000
 		})
 	);
 	return (
 		<div className="timeline-rep">
-			{/* style={{ width: '70%', height: '450px' }} */}
 			{matches ? (
 				<Chrono
 					items={data}

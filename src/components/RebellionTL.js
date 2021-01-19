@@ -9,7 +9,7 @@ function RebellionTL() {
 	// const matches = useMediaQuery('(min-width: 480px)');
 	const matches = useMediaQuery(
 		json2mq({
-			minWidth: 900
+			minWidth: 1000
 		})
 	);
 	return (

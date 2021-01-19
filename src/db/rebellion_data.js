@@ -6,7 +6,8 @@ const data = [
 		cardTitle: 'Solo: A Star Wars Story (13-10* BBY)',
 		media: {
 			source: {
-				url: `https://cdn.onebauer.media/one/empire-tmdb/films/348350/images/7LZ0K4FsALrt7OeNIGOVLNuKQRU.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg`
+				url: `/img/solo.jpg`
+				// url: `https://cdn.onebauer.media/one/empire-tmdb/films/348350/images/7LZ0K4FsALrt7OeNIGOVLNuKQRU.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -25,7 +26,8 @@ const data = [
 		cardTitle: 'Star Wars Rebels [5-1 BBY (Epilogue after 4 ABY)]',
 		media: {
 			source: {
-				url: `https://s.abcnews.com/images/Entertainment/star-wars-rebels-season-four-key-art-tall_16x9_1600.jpg`
+				url: `/img/rebels.jpg`
+				// url: `https://s.abcnews.com/images/Entertainment/star-wars-rebels-season-four-key-art-tall_16x9_1600.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -52,7 +54,8 @@ const data = [
 		cardTitle: 'Rogue One: A Star Wars Story (0 BBY)',
 		media: {
 			source: {
-				url: `https://images.tntdrama.com/tnt/$dyna_params/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2018%2F12%2FRogue-One-A-Star-Wars-Story-1600x900_0.jpg`
+				url: `/img/rogue_one.jpg`
+				// url: `https://images.tntdrama.com/tnt/$dyna_params/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2018%2F12%2FRogue-One-A-Star-Wars-Story-1600x900_0.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -71,8 +74,8 @@ const data = [
 		cardTitle: 'Episode IV: A New Hope (0 BBY - 0 ABY)',
 		media: {
 			source: {
-				url: `https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2017/12/star_wars_header_0.jpg?offset-x=0&offset-y=48`,
-				type: 'mp4'
+				url: `/img/ep4.jpg`
+				// url: `https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2017/12/star_wars_header_0.jpg?offset-x=0&offset-y=48`,
 			},
 			type: 'IMAGE',
 			name: ''
@@ -93,7 +96,8 @@ const data = [
 		cardTitle: 'Episode V: The Empire Strikes Back (3 ABY)',
 		media: {
 			source: {
-				url: `https://starwarsblog.starwars.com/wp-content/uploads/2020/06/the-empire-strikes-back-post-m-ferguson_TALL.jpg`
+				url: `/img/ep5.jpg`
+				// url: `https://starwarsblog.starwars.com/wp-content/uploads/2020/06/the-empire-strikes-back-post-m-ferguson_TALL.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -112,7 +116,8 @@ const data = [
 		cardTitle: 'Episode VI: Return of the Jedi (4 ABY)',
 		media: {
 			source: {
-				url: `https://images8.alphacoders.com/428/428996.jpg`
+				url: `/img/ep6.jpg`
+				// 	url: `https://images8.alphacoders.com/428/428996.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -135,8 +140,12 @@ const data = [
 		cardTitle: 'The Mandalorian (10 ABY)',
 		media: {
 			source: {
-				url: `https://static01.nyt.com/images/2020/12/04/arts/04mandalorian-recap/04mandalorian-recap-mediumSquareAt3X.jpg`
+				url: `/img/mandalorian_grogu.jpg`
+				// 	url: `https://static01.nyt.com/images/2019/11/22/arts/22mandalorian/22mandalorian-superJumbo.jpg`
+				//
 			},
+			// 	url: `https://static01.nyt.com/images/2020/12/04/arts/04mandalorian-recap/04mandalorian-recap-mediumSquareAt3X.jpg`
+			// },
 			type: 'IMAGE',
 			name: ''
 		},

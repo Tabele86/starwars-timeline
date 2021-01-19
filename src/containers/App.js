@@ -7,6 +7,7 @@ import Home from './Home';
 import Republic from './Republic';
 import Rebellion from './Rebellion';
 import Resistance from './Resistance';
+import Footer from '../components/Footer';
 
 function App() {
 	return (
@@ -21,8 +22,9 @@ function App() {
 					height: '100%'
 				}}
 			>
-				<Header />
-
+				<div id="top">
+					<Header />
+				</div>
 				<div className="below-header">
 					<Ages />
 					<Info />
@@ -41,6 +43,7 @@ function App() {
 						<Resistance />
 					</Route>
 				</Switch>
+				<Footer />
 			</div>
 		</Router>
 	);

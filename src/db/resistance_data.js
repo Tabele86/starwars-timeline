@@ -5,7 +5,8 @@ const data = [
 		cardTitle: 'Star Wars Resistance (34 ABY)',
 		media: {
 			source: {
-				url: `https://starwarsblog.starwars.com/wp-content/uploads/2018/09/meet-the-aces-star-wars-resistance-tall-2.jpg`
+				url: `/img/resistance.jpg`
+				// url: `https://starwarsblog.starwars.com/wp-content/uploads/2018/09/meet-the-aces-star-wars-resistance-tall-2.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -20,7 +21,8 @@ const data = [
 		cardTitle: 'Episode VII: The Force Awakens (34 ABY)',
 		media: {
 			source: {
-				url: `https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2015%2F10%2Ftfa_poster_wide_header-1536x864-324397389357.jpg&q=85`
+				url: `/img/ep7.jpg`
+				// url: `https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2015%2F10%2Ftfa_poster_wide_header-1536x864-324397389357.jpg&q=85`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -41,7 +43,8 @@ const data = [
 		cardTitle: 'Episode VIII: The Last Jedi (34 ABY)',
 		media: {
 			source: {
-				url: `https://img.apmcdn.org/7a4c27f3d1ab9760a10ffdb177aaefa060bd051f/widescreen/4adbe3-20171212-star-wars-last-jedi.jpg`
+				url: `/img/ep8.jpg`
+				// url: `https://img.apmcdn.org/7a4c27f3d1ab9760a10ffdb177aaefa060bd051f/widescreen/4adbe3-20171212-star-wars-last-jedi.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
@@ -64,7 +67,8 @@ const data = [
 		cardTitle: 'Episode IX: The Rise of Skywalker (35* ABY)',
 		media: {
 			source: {
-				url: `https://cdn.cherwell.org/wp-content/uploads/2020/01/18123645/skywalker-still-main-image.jpg`
+				url: `/img/ep9.jpg`
+				// url: `https://cdn.cherwell.org/wp-content/uploads/2020/01/18123645/skywalker-still-main-image.jpg`
 			},
 			type: 'IMAGE',
 			name: ''
