@@ -9,7 +9,7 @@ function ResistanceTL() {
 	// const matches = useMediaQuery('(min-width: 480px)');
 	const matches = useMediaQuery(
 		json2mq({
-			minWidth: 750
+			minWidth: 900
 		})
 	);
 	return (
