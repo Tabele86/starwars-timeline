@@ -1,7 +1,7 @@
 import RepublicTL from '../components/RepublicTL';
 
-function App() {
+function Republic() {
 	return <RepublicTL />;
 }
 
-export default App;
+export default Republic;

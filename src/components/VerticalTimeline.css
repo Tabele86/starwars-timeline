@@ -6,12 +6,16 @@
 	margin-top: 5px;
 	margin-bottom: 0;
 	margin-left: 10%;
+	margin-right: 50%;
 }
 
-/* @media screen and(max-width: 650px) {
-	.timeline {
-		width: 10vw;
-		height: 20%;
+@media screen and(max-width: 750px) {
+	.timeline-rep,
+	.timeline-reb,
+	.timeline-res {
+		width: 80vw;
+		height: 100vh;
 		margin-left: 0;
+		margin-right: 10%;
 	}
-} */
+}
