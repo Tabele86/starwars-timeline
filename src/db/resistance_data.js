@@ -11,10 +11,11 @@ const data = [
 			type: 'IMAGE',
 			name: ''
 		},
-		cardSubtitle: `${bp}It starts six months before The Force Awakens, before crossing over with it at the end of the first season. Then season two crosses over with The Last Jedi and ends in the lead-up to The Rise of Skywalker.
-		${bp}Despite the crossovers, it's largely standalone, but fans of the show would have recognised a major ship during the epic final space battle in The Rise of Skywalker.
+		cardSubtitle: `${bp}Seasone 1 starts six months before The Force Awakens. 
+		${bp}Season 2 crosses over with The Last Jedi and ends in the lead-up to The Rise of Skywalker.
+		${bp} Largely standalone, but fans of the show would have recognised a major ship during the epic final space battle in The Rise of Skywalker.
 		`,
-		cardDetailedText: `Star Wars Resistance is an American 3D animated science fiction television series produced by Lucasfilm Animation. The series uses a cel-shaded look. It follows Kazuda Xiono, a New Republic pilot who is recruited by the Resistance to spy on the growing threat of the First Order[2] shortly before and during the events of the sequel trilogy.`
+		cardDetailedText: `Star Wars Resistance is an American 3D animated science fiction television series produced by Lucasfilm Animation. The series uses a cel-shaded look. It follows Kazuda Xiono, a New Republic pilot who is recruited by the Resistance to spy on the growing threat of the First Order shortly before and during the events of the sequel trilogy.`
 	},
 	{
 		title: '34 ABY',
@@ -39,8 +40,8 @@ const data = [
 		cardDetailedText: `Thirty years after the defeat of the Galactic Empire, Han Solo (Harrison Ford) and his young allies face a new threat from the evil Kylo Ren (Adam Driver) and the First Order.`
 	},
 	{
-		title: '34 ABY',
-		cardTitle: 'Episode VIII: The Last Jedi (34 ABY)',
+		title: '34-35* ABY',
+		cardTitle: 'Episode VIII: The Last Jedi (34-35* ABY)',
 		media: {
 			source: {
 				url: `/img/ep8.jpg`

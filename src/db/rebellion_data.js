@@ -32,7 +32,7 @@ const data = [
 			type: 'IMAGE',
 			name: ''
 		},
-		cardDetailedText: `Fourteen years after the fall of the Galactic Republic and the Jedi Order and the rise of the Galactic Empire depicted in Revenge of the Sith,[10] a motley group of rebels unite aboard a freighter starship called the Ghost and begin to conduct covert operations against the Imperial garrison on and around the planet Lothal and other planets that are menaced by the Empire.`,
+		cardDetailedText: `Fourteen years after the fall of the Galactic Republic and the Jedi Order and the rise of the Galactic Empire depicted in Revenge of the Sith, a motley group of rebels unite aboard a freighter starship called the Ghost and begin to conduct covert operations against the Imperial garrison on and around the planet Lothal and other planets that are menaced by the Empire.`,
 		cardSubtitle: `
 		
 		${bp}Mon Mothma and Wedge Antilles join the Rebellion.
@@ -65,7 +65,7 @@ const data = [
 		
 		${bp}The Death Star plans are stolen.
 
-		${bp}The Death Star's fatal weakness is revealed and explained (retcon!)
+		${bp}The Death Star's fatal weakness is revealed and explained.
 
 		${bp}The Rebellion's fleet is decimated.`
 	},
@@ -158,7 +158,7 @@ const data = [
 		
 		${bp}Boba Fett's return from the dead.
 		
-		${bp}Luke Skywalker's returning to take Grogu away for training.`
+		${bp}Luke Skywalker's returns to take Grogu away for training.`
 	}
 ];
 

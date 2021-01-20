@@ -199,7 +199,7 @@ const data = [
 		cardSubtitle: ``
 	},
 	{
-		title: '34 ABY',
+		title: '34-35* ABY',
 		cardTitle: 'Episode VIII: The Last Jedi ',
 		media: {
 			source: {

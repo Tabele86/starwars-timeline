@@ -38,7 +38,7 @@ ${bp}Palpatine becomes the Supreme Chancellor of the Galactic Republic.`
 		cardSubtitle: ` 
 		${bp}Padmé and Anakin are married in secret.
 		
-		${bp}Anakin's mum Shmi is murdered and he takes dark side-y revenge on her killers.
+		${bp}Anakin's mother Shmi is murdered and he takes dark side-y revenge on her killers.
 
 		${bp}The Clone army is created.
 
@@ -82,11 +82,13 @@ ${bp}Palpatine becomes the Supreme Chancellor of the Galactic Republic.`
 
 		${bp}Ahsoka leaves the Jedi Order.
 
+		${bp}First chronological appearance of Chewbacca.
+
 		${bp}Saw Gerrera is introduced.
 
 		${bp}Yoda discovers how to return as a Force ghost.
 
-		${bp}The clones' secret Order 66 is almost exposed.`
+		${bp}The clones' secret Order 66 is almost exposed. RIP CT-5385, aka Tup.`
 	},
 	// {
 	// 	title: '20 BBY',
@@ -113,9 +115,7 @@ ${bp}Palpatine becomes the Supreme Chancellor of the Galactic Republic.`
 		},
 		cardDetailedText: `It has been three years since the Clone Wars began. Jedi Master Obi-Wan Kenobi (Ewan McGregor) and Jedi Knight Anakin Skywalker (Hayden Christensen) rescue Chancellor Palpatine (Ian McDiarmid) from General Grievous, the commander of the droid armies, but Grievous escapes. Suspicions are raised within the Jedi Council concerning Chancellor Palpatine, with whom Anakin has formed a bond. Asked to spy on the chancellor, and full of bitterness toward the Jedi Council, Anakin embraces the Dark Side.`,
 		cardSubtitle: `
-		
-		${bp}First chronological appearance of Chewbacca.
-
+	
 		${bp}Obi-Wan defeats Anakin on Mustafar.
 
 		${bp}Luke and Leia are born in secret and hidden.

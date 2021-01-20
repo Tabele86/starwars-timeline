@@ -6,6 +6,7 @@ import './Timeline.css';
 function Timeline() {
 	return (
 		<div className="timeline">
+			{/* original style inside Chrono */}
 			{/* style={{ width: '70%', height: '450px' }} */}
 			<Chrono
 				items={data}
